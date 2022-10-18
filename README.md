@@ -1,0 +1,2 @@
+# AffiliateDataFetcher
+Affiliate Data fetcher
