@@ -1,0 +1,1820 @@
+
+> affiliate-data-fetcher@1.0.0 dev
+> node ./src/flipkart-api/index.js
+
+DBG: environment: undefined
+DBG: isProduction: false
+[18-10-2022 08:42:26] INFO:
+    Fk-Affiliate-Id: "adithyaad"
+    Fk-Affiliate-Token: "24518b8a0fca445a8825b2ac27051fbd"
+[18-10-2022 08:42:27] INFO: fetchProductByCategory:televisions   URL: https://affiliate-api.flipkart.net/affiliate/1.0/feeds/adithyaad/category/ckf-czl.json?expiresAt=1666098747273&sig=1c41a2d800376969ae2767a55324d3df
+[18-10-2022 08:42:27] INFO: fetchProductByCategory:mobiles   URL: https://affiliate-api.flipkart.net/affiliate/1.0/feeds/adithyaad/category/tyy-4io.json?expiresAt=1666098747272&sig=e93c9f137aaf15ed6129cedbdcfda5e4
+[18-10-2022 08:42:27] INFO: fetchProductByCategory:air_coolers   URL: https://affiliate-api.flipkart.net/affiliate/1.0/feeds/adithyaad/category/j9e-abm-52j.json?expiresAt=1666098747273&sig=74908ebba266ae439b6ddc7361fc0e29
+[18-10-2022 08:42:27] INFO: fetchProductByCategory:air_conditioners   URL: https://affiliate-api.flipkart.net/affiliate/1.0/feeds/adithyaad/category/j9e-abm-c54.json?expiresAt=1666098747273&sig=e06d31a9f61de5533bd60b086b879dba
+[18-10-2022 08:42:27] INFO: fetchProductByCategory:refrigerator   URL: https://affiliate-api.flipkart.net/affiliate/1.0/feeds/adithyaad/category/j9e-abm-hzg.json?expiresAt=1666098747273&sig=1e6d8a320b03452b627d774967093930
+[18-10-2022 08:42:27] INFO: fetchProductByCategory:microwave_ovens   URL: https://affiliate-api.flipkart.net/affiliate/1.0/feeds/adithyaad/category/j9e-m38-o49.json?expiresAt=1666098747273&sig=7ffcb0feffb648ba49cea0b67f446622
+[18-10-2022 08:42:27] INFO: fetchProductByCategory:laptops   URL: https://affiliate-api.flipkart.net/affiliate/1.0/feeds/adithyaad/category/6bo-b5g.json?expiresAt=1666098747272&sig=877ad442568e524a5175a3331e3484b6
+[18-10-2022 08:42:27] INFO: fetchProductByCategory:washing_machine   URL: https://affiliate-api.flipkart.net/affiliate/1.0/feeds/adithyaad/category/j9e-abm-8qx.json?expiresAt=1666098747273&sig=dc40f04266f692e4e1441ea503e66d2a
+[18-10-2022 08:42:27] INFO: fetchProductByCategory:home_appliances   URL: https://affiliate-api.flipkart.net/affiliate/1.0/feeds/adithyaad/category/j9e-abm.json?expiresAt=1666098747272&sig=82b2b5748da2160ccf39dfb61788718d
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:27] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 10
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/10
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 11
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/11
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 12
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/12
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 13
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/13
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 14
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/14
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 15
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/15
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 16
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/16
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 17
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/17
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 18
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/18
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 19
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/19
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 20
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/20
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 21
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/21
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 22
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/22
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 23
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/23
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 24
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/24
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 25
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/25
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 26
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/26
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 27
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/27
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 29
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/29
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 28
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/28
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 30
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/30
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 31
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/31
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 32
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/32
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 33
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/33
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 34
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/34
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 35
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/35
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 36
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/36
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 37
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/37
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 38
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/38
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 39
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/39
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 40
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/40
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 42
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/42
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 41
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/41
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 43
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/43
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 44
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/44
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 45
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/45
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 46
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/46
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 47
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/47
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 49
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/49
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 48
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/48
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 50
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/50
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 51
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/51
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 53
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/53
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 52
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/52
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 54
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/54
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 56
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/56
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 55
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/55
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 57
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/57
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 58
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/58
+[18-10-2022 08:42:28] DEBUG: Row found in e-stores table with product id. e-stores.id: 59
+[18-10-2022 08:42:28] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/59
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 10
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 11
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 12
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 13
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 14
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 15
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 16
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 17
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 18
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 19
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 20
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 21
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 22
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 23
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 24
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 25
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 26
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 27
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 29
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 28
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 30
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 31
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 32
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 33
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 34
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 35
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 36
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 37
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 38
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 39
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 40
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 41
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 42
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 43
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 44
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 45
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 46
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 47
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 49
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 48
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 50
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 51
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 53
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 52
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 54
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 56
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 55
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 57
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 58
+[18-10-2022 08:42:28] INFO: Row updated in e-stores with id: 59
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 409
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/409
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 410
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/410
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 411
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/411
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 412
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/412
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 413
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/413
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 414
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/414
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 417
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/417
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 415
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/415
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 416
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/416
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 418
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/418
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 420
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/420
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 419
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/419
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 422
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/422
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 421
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/421
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 424
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/424
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 423
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/423
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 426
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/426
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 425
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/425
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 428
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/428
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 429
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/429
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 430
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/430
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 427
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/427
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 431
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/431
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 433
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/433
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 434
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/434
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 432
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/432
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 435
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/435
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 436
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/436
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 437
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/437
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 440
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/440
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 438
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/438
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 441
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/441
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 439
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/439
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 442
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/442
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 443
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/443
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 445
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/445
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 444
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/444
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 447
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/447
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 449
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/449
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 446
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/446
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 448
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/448
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 450
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/450
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 452
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/452
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 451
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/451
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 453
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/453
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 456
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/456
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 454
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/454
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 457
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/457
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 455
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/455
+[18-10-2022 08:42:29] DEBUG: Row found in e-stores table with product id. e-stores.id: 458
+[18-10-2022 08:42:29] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/458
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 409
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 410
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 411
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 412
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 413
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 414
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 417
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 416
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 415
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 418
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 420
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 419
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 422
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 424
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 421
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 423
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 426
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 425
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 428
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 429
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 430
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 427
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 431
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 433
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 434
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 432
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 435
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 436
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 437
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 440
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 438
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 441
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 442
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 439
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 443
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 445
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 444
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 449
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 447
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 448
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 446
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 450
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 452
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 451
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 453
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 456
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 454
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 457
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 455
+[18-10-2022 08:42:29] INFO: Row updated in e-stores with id: 458
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 110
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/110
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 119
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/119
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 109
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/109
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 111
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/111
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 112
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/112
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 115
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/115
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 113
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/113
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 114
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/114
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 116
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/116
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 117
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/117
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 118
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/118
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 120
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/120
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 121
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/121
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 122
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/122
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 123
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/123
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 124
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/124
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 125
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/125
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 126
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/126
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 129
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/129
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 127
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/127
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 128
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/128
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 130
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/130
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 131
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/131
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 132
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/132
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 133
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/133
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 134
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/134
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 135
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/135
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 137
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/137
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 139
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/139
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 136
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/136
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 138
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/138
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 140
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/140
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 141
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/141
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 142
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/142
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 144
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/144
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 143
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/143
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 147
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/147
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 145
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/145
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 146
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/146
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 148
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/148
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 150
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/150
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 149
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/149
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 151
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/151
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 152
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/152
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 153
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/153
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 154
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/154
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 156
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/156
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 155
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/155
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 157
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/157
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 158
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/158
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 110
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 109
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 119
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 111
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 112
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 115
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 113
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 114
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 116
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 117
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 118
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 120
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 121
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 209
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/209
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 122
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 211
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/211
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 210
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/210
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 213
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/213
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 212
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/212
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 214
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/214
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 216
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/216
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 215
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/215
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 218
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/218
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 217
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/217
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 219
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/219
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 220
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/220
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 221
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/221
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 222
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/222
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 224
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/224
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 225
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/225
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 223
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/223
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 227
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/227
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 228
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/228
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 226
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/226
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 229
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/229
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 232
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/232
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 230
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/230
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 231
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/231
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 233
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/233
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 234
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/234
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 235
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/235
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 237
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/237
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 236
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/236
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 239
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/239
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 238
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/238
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 240
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/240
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 241
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/241
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 242
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/242
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 244
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/244
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 243
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/243
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 246
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/246
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 247
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/247
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 245
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/245
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 248
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/248
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 249
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/249
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 251
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/251
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 250
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/250
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 252
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/252
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 254
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/254
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 253
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/253
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 257
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/257
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 255
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/255
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 256
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/256
+[18-10-2022 08:42:30] DEBUG: Row found in e-stores table with product id. e-stores.id: 258
+[18-10-2022 08:42:30] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/258
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 124
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 123
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 125
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 126
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 129
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 128
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 127
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 130
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 131
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 132
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 133
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 134
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 135
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 139
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 136
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 137
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 138
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 140
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 141
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 142
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 144
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 143
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 147
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 145
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 146
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 148
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 150
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 149
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 152
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 151
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 153
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 154
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 156
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 155
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 157
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 158
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 209
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 211
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 210
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 213
+[18-10-2022 08:42:30] INFO: Row updated in e-stores with id: 212
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: Row updated in e-stores with id: 214
+[18-10-2022 08:42:31] INFO: Row updated in e-stores with id: 216
+[18-10-2022 08:42:31] INFO: Row updated in e-stores with id: 215
+[18-10-2022 08:42:31] INFO: Row updated in e-stores with id: 218
+[18-10-2022 08:42:31] INFO: Row updated in e-stores with id: 217
+[18-10-2022 08:42:31] INFO: Row updated in e-stores with id: 219
+[18-10-2022 08:42:31] INFO: Row updated in e-stores with id: 220
+[18-10-2022 08:42:31] INFO: Row updated in e-stores with id: 221
+[18-10-2022 08:42:31] INFO: Row updated in e-stores with id: 222
+[18-10-2022 08:42:31] INFO: Row updated in e-stores with id: 224
+[18-10-2022 08:42:31] INFO: Row updated in e-stores with id: 225
+[18-10-2022 08:42:31] INFO: Row updated in e-stores with id: 223
+[18-10-2022 08:42:31] INFO: Row updated in e-stores with id: 228
+[18-10-2022 08:42:31] INFO: Row updated in e-stores with id: 227
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: Row updated in e-stores with id: 229
+[18-10-2022 08:42:31] INFO: Row updated in e-stores with id: 226
+[18-10-2022 08:42:31] INFO: Row updated in e-stores with id: 232
+[18-10-2022 08:42:31] INFO: Row updated in e-stores with id: 230
+[18-10-2022 08:42:31] INFO: Row updated in e-stores with id: 231
+[18-10-2022 08:42:31] INFO: Row updated in e-stores with id: 234
+[18-10-2022 08:42:31] INFO: Row updated in e-stores with id: 233
+[18-10-2022 08:42:31] INFO: Row updated in e-stores with id: 235
+[18-10-2022 08:42:31] INFO: Row updated in e-stores with id: 237
+[18-10-2022 08:42:31] INFO: Row updated in e-stores with id: 236
+[18-10-2022 08:42:31] INFO: Row updated in e-stores with id: 239
+[18-10-2022 08:42:31] INFO: Row updated in e-stores with id: 238
+[18-10-2022 08:42:31] INFO: Row updated in e-stores with id: 240
+[18-10-2022 08:42:31] INFO: Row updated in e-stores with id: 241
+[18-10-2022 08:42:31] INFO: Row updated in e-stores with id: 242
+[18-10-2022 08:42:31] INFO: Row updated in e-stores with id: 244
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 61
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/61
+[18-10-2022 08:42:31] INFO: Row updated in e-stores with id: 243
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 60
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/60
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 62
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/62
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 63
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/63
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 64
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/64
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 65
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/65
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 66
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/66
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 68
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/68
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 67
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/67
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 69
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/69
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 70
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/70
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 72
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/72
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 71
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/71
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 74
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/74
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 73
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/73
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 76
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/76
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 77
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/77
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 78
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/78
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 75
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/75
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 81
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/81
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 79
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/79
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 80
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/80
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 83
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/83
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 86
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/86
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 82
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/82
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 84
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/84
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 85
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/85
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 87
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/87
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 90
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/90
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 88
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/88
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 91
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/91
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 89
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/89
+[18-10-2022 08:42:31] FATAL: ############: {"productBaseInfoV1":{"productId":"COMG6E2GTUY3A9BZ","title":"ASUS Rog Strix G15 Ryzen 9 Octa Core AMD Ryzen™ 9 5900H Processor 3.0 GHz (16M Cache, up to 4.6 GHz) 5th Gen - (16 GB/1 TB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce RTX 3050Ti/300 Hz) G513QE-HF146T Gaming Laptop(15.6 inch, Electro Punk, 2.30 Kg)","productDescription":"ROG STRIX Focused firepower streamlines and elevates the core Windows 10 gaming experience in the ROG Strix G15. With up to a powerful AMD Ryzen 9 5900H CPU and GeForce RTX 3050Ti GPU, everything from gaming to multitasking is fast and fluid. Go full-throttle on esports speed with a competition-grade display up to 300 Hz/3ms. Adaptive-Sync makes gameplay ultrasmooth, while advanced thermal upgrades help you stay cool under pressure. No matter what your game is, you can achieve your perfect play","imageUrls":{"200x200":"https://rukminim1.flixcart.com/image/200/200/ksxjs7k0/computer/n/g/k/g513qe-hf146t-gaming-laptop-asus-original-imag6e2gzhqeauss.jpeg?q=90","400x400":"https://rukminim1.flixcart.com/image/400/400/ksxjs7k0/computer/n/g/k/g513qe-hf146t-gaming-laptop-asus-original-imag6e2gzhqeauss.jpeg?q=90","800x800":"https://rukminim1.flixcart.com/image/800/800/ksxjs7k0/computer/n/g/k/g513qe-hf146t-gaming-laptop-asus-original-imag6e2gzhqeauss.jpeg?q=90"},"productFamily":["COMG6E2GTUY3A9BZ"],"maximumRetailPrice":{"amount":166990,"currency":"INR"},"flipkartSellingPrice":{"amount":166990,"currency":"INR"},"flipkartSpecialPrice":{"amount":129940,"currency":"INR"},"productUrl":"https://www.flipkart.com/asus-rog-strix-g15-ryzen-9-octa-core-amd-ryzen-5900h-processor-3-0-ghz-16m-cache-up-4-6-ghz-5th-gen-16-gb-1-tb-ssd-windows-10-home-4-gb-graphics-nvidia-geforce-rtx-3050ti-300-hz-g513qe-hf146t-gaming-laptop/p/itm8146f09bf7c06?pid=COMG6E2GTUY3A9BZ&affid=adithyaad","productBrand":"ASUS","inStock":true,"codAvailable":false,"discountPercentage":19,"offers":["10% off on Citi Credit/Debit Cards","Additional Flat ₹500 off on Citi Credit Card","5% Cashback on Flipkart Axis Bank Card","Sign up for Pay Later and get Rs100 Gift Card","Flipkart Pay Later- iPad and EGV offer","₹50 off on your first order"],"categoryPath":"Computers>Laptops","attributes":{"size":"","color":"Electro Punk","storage":"","sizeUnit":"","displaySize":""}},"productShippingInfoV1":{"shippingCharges":{"amount":0,"currency":"INR"},"estimatedDeliveryTime":"Usually Delivered within 8 days.","sellerName":"Abhishek Kurrey","sellerAverageRating":null,"sellerNoOfRatings":0,"sellerNoOfReviews":0},"categorySpecificInfoV1":{"keySpecs":["AMD Ryzen 9 Octa Core Processor (5th Gen)","16 GB DDR4 RAM","64 bit Windows 10 Operating System","1 TB SSD","39.62 cm (15.6 inch) Display","Windows 10 Home"],"detailedSpecs":["AMD Ryzen 9 Octa Core Processor (5th Gen)","16 GB DDR4 RAM","64 bit Windows 10 Operating System","1 TB SSD","39.62 cm (15.6 inch) Display","Windows 10 Home"],"specificationList":[{"key":"General","values":[{"key":"Sales Package","value":["Laptop, Power Adaptor, User Guide, Mouse(ROG P512), Mouse Pad(ROG)"]},{"key":"Model Number","value":["G513QE-HF146T"]},{"key":"Part Number","value":["90NR05I3-M03590"]},{"key":"Model Name","value":["ROG Strix"]},{"key":"Series","value":["Rog Strix G15"]},{"key":"Color","value":["Electro Punk"]},{"key":"Type","value":["Gaming Laptop"]},{"key":"Suitable For","value":["Gaming, Processing & Multitasking, Performance"]},{"key":"Battery Backup","value":["5 hours"]},{"key":"Battery Cell","value":["56WHrs, 4S1P, 4-cell Li-ion"]},{"key":"MS Office Provided","value":["No"]},{"key":"Inbuilt 4G LTE","value":["No"]},{"key":"Stylus Included","value":["No"]}]},{"key":"Processor and Memory Features","values":[{"key":"Dedicated Graphic Memory Type","value":["GDDR6"]},{"key":"Dedicated Graphic Memory Capacity","value":["4 GB"]},{"key":"Processor Brand","value":["AMD"]},{"key":"Processor Name","value":["Ryzen 9 Octa Core"]},{"key":"Processor Generation","value":["5th Gen"]},{"key":"SSD","value":["Yes"]},{"key":"SSD Capacity","value":["1 TB"]},{"key":"RAM","value":["16 GB"]},{"key":"RAM Type","value":["DDR4"]},{"key":"Processor Variant","value":["AMD Ryzen™ 9 5900H Processor 3.0 GHz (16M Cache, up to 4.6 GHz)"]},{"key":"Clock Speed","value":["3.0 GHz with Turbo Boost Upto 4.6 GHz"]},{"key":"Memory Slots","value":["2"]},{"key":"Expandable Memory","value":["32"]},{"key":"RAM Frequency","value":["3200 MHz"]},{"key":"Cache","value":["16"]},{"key":"Graphic Processor","value":["NVIDIA GeForce RTX 3050Ti"]},{"key":"Number of Cores","value":["8"]}]},{"key":"Operating System","values":[{"key":"OS Architecture","value":["64 bit"]},{"key":"Operating System","value":["Windows 10 Home"]},{"key":"Supported Operating System","value":["Windows 10"]},{"key":"System Architecture","value":["64"]}]},{"key":"Port and Slot Features","values":[{"key":"S-video","value":["No"]},{"key":"Dock Port","value":["No"]},{"key":"Firewire Port","value":["No"]},{"key":"RJ11","value":["No"]},{"key":"Mic In","value":["Yes"]},{"key":"RJ45","value":["Yes"]},{"key":"VGA Port","value":["No"]},{"key":"USB Port","value":["3x USB 3.2 Gen 1 Type-A, 1x USB 3.2 Gen 2 Type-C support DisplayPort / power delivery"]},{"key":"HDMI Port","value":["1 x HDMI 2.0b"]},{"key":"Hardware Interface","value":["PCIe NVMe"]}]},{"key":"Display and Audio Features","values":[{"key":"Touchscreen","value":["No"]},{"key":"Screen Size","value":["39.62 cm (15.6 inch)"]},{"key":"Screen Resolution","value":["1920 x 1080 Pixels"]},{"key":"Screen Type","value":["Full HD Anti-glare Display, IPS Level, 300 Hz"]},{"key":"Speakers","value":["Built-in Speaker"]},{"key":"Internal Mic","value":["Built-in Array Microphone"]},{"key":"Sound Chip","value":["Dolby Atmos"]},{"key":"Sound Properties","value":["Smart Amp Technology, 2x 4W speaker with Smart Amp Technology"]},{"key":"Refresh Rate","value":["300 Hz"]}]},{"key":"Connectivity Features","values":[{"key":"Wireless LAN","value":["Wi-Fi 6(802.11ax) Dual band (2*2)"]},{"key":"Bluetooth","value":["v5.2"]},{"key":"Ethernet","value":["10/100/1000 Mbps"]},{"key":"NFC Support","value":["No"]},{"key":"Wireless WAN","value":["Yes"]}]},{"key":"Dimensions","values":[{"key":"Dimensions","value":["359 x 256 x 24.7"]},{"key":"Weight","value":["2.30 Kg"]}]},{"key":"Additional Features","values":[{"key":"Disk Drive","value":["Not Available"]},{"key":"Finger Print Sensor","value":["No"]},{"key":"Face Recognition","value":["No"]},{"key":"Keyboard","value":["Backlit KB- 4 zone RGB"]},{"key":"Backlit Keyboard","value":["Yes"]},{"key":"Pointer Device","value":["Touchpad"]},{"key":"Recovery Options","value":["Yes"]},{"key":"Included Software","value":["Windows 10 Home"]},{"key":"Laptop Bag","value":["No"]},{"key":"Additional Features","value":["1x HDMI 2.0b | 3x USB 3.2 Gen 1 Type-A | 1x USB 3.2 Gen 2 Type-C support DisplayPort"]},{"key":"Other Accessories","value":["Mouse(ROG P512), Mouse Pad(ROG)"]}]},{"key":"Warranty","values":[{"key":"Warranty Summary","value":["1 Year Onsite Warranty"]},{"key":"Warranty Service Type","value":["Onsite"]},{"key":"Covered in Warranty","value":["Manufacturing Defects"]},{"key":"Not Covered in Warranty","value":["Physical Damage"]},{"key":"Domestic Warranty","value":["1 Year"]},{"key":"International Warranty","value":["1 Year"]}]}],"booksInfo":{"language":null,"binding":null,"pages":null,"publisher":null,"year":0,"authors":[]},"lifeStyleInfo":{"sleeve":null,"neck":null,"idealFor":null}}}
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: POST Url: http://localhost:1337/api/products
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 92
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/92
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 94
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/94
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 93
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/93
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 95
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/95
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 96
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/96
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 97
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/97
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 98
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/98
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 100
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/100
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 99
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/99
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 103
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/103
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 102
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/102
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 101
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/101
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 105
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/105
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 104
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/104
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 106
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/106
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 108
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/108
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 107
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/107
+[18-10-2022 08:42:31] INFO: Row updated in e-stores with id: 246
+[18-10-2022 08:42:31] INFO: Row updated in e-stores with id: 247
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: getCallToDB, Url: http://localhost:1337/api/products param:[object Object]
+[18-10-2022 08:42:31] INFO: Row updated in e-stores with id: 245
+[18-10-2022 08:42:31] INFO: Row updated in e-stores with id: 248
+[18-10-2022 08:42:31] INFO: Row updated in e-stores with id: 249
+[18-10-2022 08:42:31] INFO: Row updated in e-stores with id: 251
+[18-10-2022 08:42:31] INFO: Row updated in e-stores with id: 250
+[18-10-2022 08:42:31] INFO: Row updated in e-stores with id: 252
+[18-10-2022 08:42:31] INFO: Row updated in e-stores with id: 254
+[18-10-2022 08:42:31] INFO: Row updated in e-stores with id: 253
+[18-10-2022 08:42:31] INFO: Row updated in e-stores with id: 257
+[18-10-2022 08:42:31] INFO: Row updated in e-stores with id: 255
+[18-10-2022 08:42:31] INFO: Row updated in e-stores with id: 256
+[18-10-2022 08:42:31] INFO: Row updated in e-stores with id: 258
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 359
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/359
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 361
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/361
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 360
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/360
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 362
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/362
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 363
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/363
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 364
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/364
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 365
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/365
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 368
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/368
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 366
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/366
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 367
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/367
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 369
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/369
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 370
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/370
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 373
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/373
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 371
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/371
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 372
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/372
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 375
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/375
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 376
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/376
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 374
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/374
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 377
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/377
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 379
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/379
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 378
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/378
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 380
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/380
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 381
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/381
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 382
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/382
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 384
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/384
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 385
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/385
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 383
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/383
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 386
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/386
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 387
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/387
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 389
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/389
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 391
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/391
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 388
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/388
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 390
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/390
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 393
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/393
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 392
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/392
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 396
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/396
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 395
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/395
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 394
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/394
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 397
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/397
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 398
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/398
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 402
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/402
+[18-10-2022 08:42:31] DEBUG: Row found in e-stores table with product id. e-stores.id: 399
+[18-10-2022 08:42:31] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/399
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 401
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/401
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 400
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/400
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 403
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/403
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 404
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/404
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 405
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/405
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 407
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/407
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 406
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/406
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 408
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/408
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 259
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/259
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 261
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/261
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 263
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/263
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 260
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/260
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 264
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/264
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 262
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/262
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 265
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/265
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 266
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/266
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 267
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/267
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 268
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/268
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 269
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/269
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 270
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/270
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 273
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/273
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 272
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/272
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 271
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/271
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 274
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/274
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 275
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/275
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 276
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/276
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 277
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/277
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 278
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/278
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 280
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/280
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 279
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/279
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 281
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/281
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 282
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/282
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 284
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/284
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 285
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/285
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 283
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/283
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 286
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/286
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 287
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/287
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 289
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/289
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 288
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/288
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 291
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/291
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 290
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/290
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 293
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/293
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 292
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/292
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 294
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/294
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 295
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/295
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 296
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/296
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 299
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/299
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 298
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/298
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 297
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/297
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 300
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/300
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 302
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/302
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 301
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/301
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 303
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/303
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 304
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/304
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 305
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/305
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 306
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/306
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 307
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/307
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 308
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/308
+[18-10-2022 08:42:32] INFO: Row updated in e-stores with id: 60
+[18-10-2022 08:42:32] INFO: Row updated in e-stores with id: 61
+[18-10-2022 08:42:32] INFO: Row updated in e-stores with id: 62
+[18-10-2022 08:42:32] INFO: Row updated in e-stores with id: 63
+[18-10-2022 08:42:32] INFO: Row updated in e-stores with id: 64
+[18-10-2022 08:42:32] INFO: Row updated in e-stores with id: 65
+[18-10-2022 08:42:32] INFO: Row updated in e-stores with id: 68
+[18-10-2022 08:42:32] INFO: Row updated in e-stores with id: 66
+[18-10-2022 08:42:32] INFO: Row updated in e-stores with id: 67
+[18-10-2022 08:42:32] INFO: Row updated in e-stores with id: 69
+[18-10-2022 08:42:32] INFO: Row updated in e-stores with id: 72
+[18-10-2022 08:42:32] INFO: Row updated in e-stores with id: 70
+[18-10-2022 08:42:32] INFO: Row updated in e-stores with id: 71
+[18-10-2022 08:42:32] INFO: Row updated in e-stores with id: 74
+[18-10-2022 08:42:32] INFO: Row updated in e-stores with id: 73
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 309
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/309
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 311
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/311
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 310
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/310
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 312
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/312
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 314
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/314
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 315
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/315
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 313
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/313
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 316
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/316
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 317
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/317
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 318
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/318
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 319
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/319
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 322
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/322
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 320
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/320
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 324
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/324
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 321
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/321
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 323
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/323
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 325
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/325
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 326
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/326
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 327
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/327
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 328
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/328
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 329
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/329
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 330
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/330
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 331
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/331
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 332
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/332
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 334
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/334
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 333
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/333
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 335
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/335
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 338
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/338
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 336
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/336
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 337
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/337
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 339
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/339
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 341
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/341
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 343
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/343
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 340
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/340
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 342
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/342
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 344
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/344
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 345
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/345
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 347
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/347
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 346
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/346
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 348
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/348
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 350
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/350
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 349
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/349
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 351
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/351
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 353
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/353
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 352
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/352
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 354
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/354
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 355
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/355
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 356
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/356
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 357
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/357
+[18-10-2022 08:42:32] DEBUG: Row found in e-stores table with product id. e-stores.id: 358
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/358
+[18-10-2022 08:42:32] INFO: Row updated in e-stores with id: 76
+[18-10-2022 08:42:32] INFO: Row updated in e-stores with id: 77
+[18-10-2022 08:42:32] INFO: Row updated in e-stores with id: 78
+[18-10-2022 08:42:32] INFO: Row updated in e-stores with id: 75
+[18-10-2022 08:42:32] INFO: Row updated in e-stores with id: 81
+[18-10-2022 08:42:32] INFO: Row updated in e-stores with id: 79
+[18-10-2022 08:42:32] INFO: Row updated in e-stores with id: 80
+[18-10-2022 08:42:32] INFO: Row updated in e-stores with id: 83
+[18-10-2022 08:42:32] INFO: Row updated in e-stores with id: 86
+[18-10-2022 08:42:32] INFO: Row updated in e-stores with id: 82
+[18-10-2022 08:42:32] INFO: Row updated in e-stores with id: 84
+[18-10-2022 08:42:32] INFO: Row updated in e-stores with id: 85
+[18-10-2022 08:42:32] INFO: Row updated in e-stores with id: 87
+[18-10-2022 08:42:32] INFO: Row updated in e-stores with id: 90
+[18-10-2022 08:42:32] INFO: Row updated in e-stores with id: 88
+[18-10-2022 08:42:32] INFO: Products row updated. product_id : 475
+[18-10-2022 08:42:32] INFO: postCallToDB. Method: POST Url: http://localhost:1337/api/e-stores
+[18-10-2022 08:42:32] INFO: Row updated in e-stores with id: 91
+[18-10-2022 08:42:32] INFO: Row updated in e-stores with id: 89
+[18-10-2022 08:42:32] INFO: Row updated in e-stores with id: 92
+[18-10-2022 08:42:32] INFO: Row updated in e-stores with id: 94
+[18-10-2022 08:42:32] INFO: Row updated in e-stores with id: 93
+[18-10-2022 08:42:32] INFO: Row updated in e-stores with id: 95
+[18-10-2022 08:42:32] INFO: Row updated in e-stores with id: 96
+[18-10-2022 08:42:32] INFO: Row updated in e-stores with id: 97
+[18-10-2022 08:42:32] INFO: Row updated in e-stores with id: 98
+[18-10-2022 08:42:32] INFO: Row updated in e-stores with id: 100
+[18-10-2022 08:42:32] INFO: Row updated in e-stores with id: 99
+[18-10-2022 08:42:32] INFO: Row updated in e-stores with id: 103
+[18-10-2022 08:42:32] INFO: Row updated in e-stores with id: 102
+[18-10-2022 08:42:32] INFO: Row updated in e-stores with id: 101
+[18-10-2022 08:42:32] INFO: Row updated in e-stores with id: 105
+[18-10-2022 08:42:32] INFO: Row updated in e-stores with id: 104
+[18-10-2022 08:42:32] INFO: Row updated in e-stores with id: 106
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 108
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 107
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 159
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/159
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 160
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/160
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 164
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/164
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 161
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/161
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 163
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/163
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 162
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/162
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 165
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/165
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 166
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/166
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 167
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/167
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 169
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/169
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 168
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/168
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 171
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/171
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 173
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/173
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 170
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/170
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 172
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/172
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 174
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/174
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 175
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/175
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 176
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/176
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 177
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/177
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 178
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/178
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 179
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/179
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 180
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/180
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 181
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/181
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 182
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/182
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 183
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/183
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 184
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/184
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 186
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/186
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 185
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/185
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 187
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/187
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 188
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/188
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 189
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/189
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 191
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/191
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 190
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/190
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 192
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/192
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 194
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/194
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 193
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/193
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 196
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/196
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 195
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/195
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 198
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/198
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 197
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/197
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 199
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/199
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 200
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/200
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 202
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/202
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 201
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/201
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 204
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/204
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 203
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/203
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 206
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/206
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 205
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/205
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 208
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/208
+[18-10-2022 08:42:33] DEBUG: Row found in e-stores table with product id. e-stores.id: 207
+[18-10-2022 08:42:33] INFO: postCallToDB. Method: PUT Url: http://localhost:1337/api/e-stores/207
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 359
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 361
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 362
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 360
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 363
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 364
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 365
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 368
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 366
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 367
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 369
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 370
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 373
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 371
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 372
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 375
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 376
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 374
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 377
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 379
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 378
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 380
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 381
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 382
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 384
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 385
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 383
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 386
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 387
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 389
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 391
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 388
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 390
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 393
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 392
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 396
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 395
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 394
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 397
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 398
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 402
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 399
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 401
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 400
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 403
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 404
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 405
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 407
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 406
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 408
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 259
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 261
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 263
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 260
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 264
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 262
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 265
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 266
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 267
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 268
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 269
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 270
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 273
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 272
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 271
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 274
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 275
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 276
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 277
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 278
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 280
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 279
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 281
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 282
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 284
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 285
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 283
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 286
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 287
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 289
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 288
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 291
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 290
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 292
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 293
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 294
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 296
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 295
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 299
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 298
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 297
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 300
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 301
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 302
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 303
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 304
+[18-10-2022 08:42:33] INFO: Row updated in e-stores with id: 305
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 306
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 308
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 307
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 309
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 311
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 310
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 312
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 314
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 315
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 313
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 316
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 317
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 318
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 319
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 322
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 320
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 324
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 321
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 323
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 325
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 326
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 327
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 328
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 329
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 330
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 331
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 332
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 334
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 333
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 335
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 338
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 336
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 337
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 339
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 341
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 343
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 340
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 342
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 344
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 345
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 347
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 346
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 348
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 350
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 349
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 351
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 353
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 352
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 354
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 355
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 356
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 357
+[18-10-2022 08:42:34] INFO: E-stores row inserted. e_stores.id : 459
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 358
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 159
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 160
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 164
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 161
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 163
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 162
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 165
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 166
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 167
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 169
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 168
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 171
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 173
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 170
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 172
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 174
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 175
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 176
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 177
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 178
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 179
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 180
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 181
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 182
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 183
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 184
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 186
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 187
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 185
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 188
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 191
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 189
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 190
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 192
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 194
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 193
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 196
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 195
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 198
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 197
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 199
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 200
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 202
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 201
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 204
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 203
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 206
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 205
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 207
+[18-10-2022 08:42:34] INFO: Row updated in e-stores with id: 208
